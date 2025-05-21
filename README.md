@@ -14,7 +14,7 @@ Telegram бот для мониторинга цен объявлений на �
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/kbonesssss/avito-monito
+git clone https://github.com/kbonesssss/avito-monitor
 cd avito-monitor
 ```
 
